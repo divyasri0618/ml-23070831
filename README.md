@@ -1,4 +1,4 @@
-# Employee Attrition Classification using SVM and Random Forest
+# Machine Learning Operations on Employee Attrition Classification Dataset
 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
@@ -8,7 +8,7 @@ This project implements and compares two machine learning algorithms - Support V
 
 
 ### File Descriptions:
-- **.github/workflows/blank.yml**: GitHub Actions configuration file (currently blank)
+
 - **Dataset.csv**: Contains employee data with features like age, job role, salary, and attrition status
 - **LICENSE**: MIT License file for open-source usage
 - **README.md**: Project documentation with setup instructions and results
