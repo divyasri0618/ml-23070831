@@ -73,3 +73,7 @@ Both models achieved comparable performance:
 git clone https://github.com/divyasri0618/employee-attrition-prediction.git
 cd employee-attrition-prediction
 
+2. Install required packages:
+```bash
+pip install -r requirements.txt
+
