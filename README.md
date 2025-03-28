@@ -70,8 +70,8 @@ Both models achieved comparable performance:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/divyasri0618/employee-attrition-prediction.git
-cd employee-attrition-prediction
+git clone https://github.com/divyasri0618/ml-23070831.git
+cd ml-23070831
 
 ```
 
