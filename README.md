@@ -80,3 +80,12 @@ cd employee-attrition-prediction
 pip install -r requirements.txt
 
 ```
+
+Usage
+1. Run the Jupyter notebook:
+```bash
+jupyter notebook model.ipynb
+
+```
+
+2. 
