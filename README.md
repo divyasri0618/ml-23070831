@@ -6,6 +6,20 @@
 
 This project implements and compares two machine learning algorithms - Support Vector Machines (SVM) and Random Forest - for predicting employee attrition using a dataset containing employee information.
 
+
+### File Descriptions:
+- **.github/workflows/blank.yml**: GitHub Actions configuration file (currently blank)
+- **Dataset.csv**: Contains employee data with features like age, job role, salary, and attrition status
+- **LICENSE**: MIT License file for open-source usage
+- **README.md**: Project documentation with setup instructions and results
+- **ml-23070831-tut.pdf**: Supplementary tutorial or project documentation
+- **model.ipynb**: Jupyter notebook containing:
+  - Data preprocessing
+  - EDA visualizations
+  - SVM and Random Forest implementations
+  - Model evaluation metrics
+ 
+    
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
