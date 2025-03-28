@@ -87,15 +87,3 @@ Usage
 jupyter notebook model.ipynb
 
 ```
-
-##Repository Structure
-
-ml-23070831/
-├── .github/
-│   └── workflows/
-│       └── blank.yml            # GitHub Actions workflow file
-├── Dataset.csv                  # Employee attrition dataset
-├── LICENSE                      # MIT License file
-├── README.md                    # Project documentation (this file)
-├── ml-23070831-tut.pdf          # Tutorial/guide document
-└── model.ipynb                  # Jupyter notebook with implementation code
