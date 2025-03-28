@@ -19,16 +19,6 @@ This project implements and compares two machine learning algorithms - Support V
   - SVM and Random Forest implementations
   - Model evaluation metrics
  
-    
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Employee attrition is a critical challenge for organizations. This project demonstrates how machine learning can help predict whether an employee is likely to leave the company. We compare two classification algorithms:
@@ -44,8 +34,6 @@ The dataset contains 59,598 employee records with 24 features including:
 - Years at company
 - Attrition status (target variable)
 
-![Dataset Information](media/image1.png)
-*Sample dataset information*
 
 ## Methodology
 ### Data Preprocessing
@@ -78,8 +66,6 @@ Both models achieved comparable performance:
 | Recall (1)    | 0.75         | 0.75    |
 | F1-score (1)  | 0.75         | 0.75    |
 
-![Confusion Matrices](media/image13.png)
-*Random Forest confusion matrix*
 
 ## Installation
 1. Clone the repository:
